@@ -1,0 +1,35 @@
+module.exports = {
+    "state":1,
+    "message":null,
+    "errorCode":null,
+    "serverTime":1515465144098,
+    "data":{
+        "gmtCreate":1515399793000,
+        "maxPayout":null,
+        "isView":1,
+        "insuredName":["test"],
+        "insuredMobile":["15914094691"],
+        "discountAmount":990,
+        "realDiscountAmount":990,
+        "payout":null,
+        "price":1000,
+        "order":{
+            "innerOrderId":"TQ151457198397",
+            "productName":"晴天万里宝",
+            "triggerState":0,
+            "payoutState":null,
+            "contracts":[
+                {"city":"雷克雅未克","sDate":"2018-01-13","eDate":"2018-01-14"},
+                {"city":"哥本哈根","sDate":"2018-01-14","eDate":"2018-01-15"},
+                {"city":"德里","sDate":"2018-01-15","eDate":"2018-01-16"},
+                {"city":"德里","sDate":"2018-01-16","eDate":"2018-01-17"}
+            ],
+            "triggerCheckState":0
+        },
+        "payFee":10,
+        "buyTime":"2018-01-08 16:23:13",
+        "merchantId":"30181",
+        "isDesc":0,
+        "mobile":"15914094691"
+    }
+}

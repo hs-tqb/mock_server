@@ -1,0 +1,25 @@
+{
+    "state": 1,
+    "message": null,
+    "data": {
+        "price": 400,
+        "payFee": 1,
+        "order": {
+            "innerOrderId": "TQ364951893178",
+            "productName": "自营高温",
+            "triggerState": 1,
+            "payoutState": 0,
+            "contracts": [
+                {
+                    "city": "北京",
+                    "sDate": "2017-08-02",
+                    "eDate": "2017-08-03"
+                }
+            ]
+        },
+        "buyTime": "2017-08-01 15:44:07.0",
+        "discountAmount": 399,
+        "payout": 25000,
+        "mobile": "15190496978"
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "state": 1,
+    "message": null,
+    "errorCode": null,
+    "serverTime": 1515465144122,
+    "data": {
+        "trigger": [
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "IS04030",
+                "cityName": "雷克雅未克",
+                "triggerState": null,
+                "threshold": null,
+                "realWeatherDate": "2018-01-13",
+                "nmcWeatherValue": null,
+                "chinaWeatherValue": null,
+                "weatherUrl": "http://en.vedur.is/weather/observations/areas/reykjavik/#group=100&view=table&station=1"
+            },
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "DA06165",
+                "cityName": "哥本哈根",
+                "triggerState": null,
+                "threshold": null,
+                "realWeatherDate": "2018-01-14",
+                "nmcWeatherValue": null,
+                "chinaWeatherValue": null,
+                "weatherUrl": "https://www.accuweather.com/zh/dk/copenhagen/123094/month/123094?view=table"
+            },
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "IN71573",
+                "cityName": "德里",
+                "triggerState": null,
+                "threshold": null,
+                "realWeatherDate": "2018-01-15",
+                "nmcWeatherValue": null,
+                "chinaWeatherValue": null,
+                "weatherUrl": "http://www.accuweather.com/zh/in/delhi/202396/month/202396?view=table"
+            },
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "IN71573",
+                "cityName": "德里",
+                "triggerState": null,
+                "threshold": null,
+                "realWeatherDate": "2018-01-16",
+                "nmcWeatherValue": null,
+                "chinaWeatherValue": null,
+                "weatherUrl": "http://www.accuweather.com/zh/in/delhi/202396/month/202396?view=table"
+            }
+        ],
+        "contract": [
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "IS04030",
+                "cityName": "雷克雅未克",
+                "threshold": null,
+                "triggerRuleParam": "26.0",
+                "payoutRuleParam": "1:2000.0|2:5000.0|3:12000.0|4:30000.0",
+                "opType": ">",
+                "weatherType": "降雨",
+                "unit": "mm"
+            },
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "DA06165",
+                "cityName": "哥本哈根",
+                "threshold": null,
+                "triggerRuleParam": "26.0",
+                "payoutRuleParam": "1:2000.0|2:5000.0|3:12000.0|4:30000.0",
+                "opType": ">",
+                "weatherType": "降雨",
+                "unit": "mm"
+            },
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "IN71573",
+                "cityName": "德里",
+                "threshold": null,
+                "triggerRuleParam": "26.0",
+                "payoutRuleParam": "1:2000.0|2:5000.0|3:12000.0|4:30000.0",
+                "opType": ">",
+                "weatherType": "降雨",
+                "unit": "mm"
+            },
+            {
+                "innerOrderId": "TQ151457198397",
+                "cityId": "IN71573",
+                "cityName": "德里",
+                "threshold": null,
+                "triggerRuleParam": "26.0",
+                "payoutRuleParam": "1:2000.0|2:5000.0|3:12000.0|4:30000.0",
+                "opType": ">",
+                "weatherType": "降雨",
+                "unit": "mm"
+            }
+        ]
+    }
+}

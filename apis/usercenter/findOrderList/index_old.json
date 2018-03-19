@@ -1,0 +1,92 @@
+{
+    "state": 1,
+    "message": null,
+    "errorCode": null,
+    "serverTime": 1504947081881,
+    "data": {
+        "page": 1,
+        "list": [
+            {
+                "innerOrderId": "TQ813811806488",
+                "productName": "高温补贴",
+                "triggerState": 0,
+                "payoutState": null,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-19",
+                        "eDate": "2017-08-20"
+                    },
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-20",
+                        "eDate": "2017-08-21"
+                    }
+                ]
+            },
+            {
+                "innerOrderId": "TQ661526186546",
+                "productName": "高温补贴",
+                "triggerState": 0,
+                "payoutState": null,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-22",
+                        "eDate": "2017-08-23"
+                    }
+                ]
+            },
+            {
+                "innerOrderId": "TQ478867233882",
+                "productName": "高温补贴",
+                "triggerState": 0,
+                "payoutState": null,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-28",
+                        "eDate": "2017-08-29"
+                    },
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-29",
+                        "eDate": "2017-08-30"
+                    }
+                ]
+            },
+            {
+                "innerOrderId": "TQ223316652391",
+                "productName": "高温补贴",
+                "triggerState": 0,
+                "payoutState": null,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-18",
+                        "eDate": "2017-08-19"
+                    }
+                ]
+            },
+            {
+                "innerOrderId": "TQ611192895924",
+                "productName": "高温补贴",
+                "triggerState": 0,
+                "payoutState": null,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-16",
+                        "eDate": "2017-08-17"
+                    },
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-17",
+                        "eDate": "2017-08-18"
+                    }
+                ]
+            }
+        ],
+        "totalPage": 1
+    }
+}

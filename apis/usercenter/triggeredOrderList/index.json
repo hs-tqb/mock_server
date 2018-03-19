@@ -1,0 +1,76 @@
+{
+    "state": 1,
+    "message": null,
+    "data": {
+        "page": 2,
+        "totalPage": 3,
+        "list": [
+            {
+                "id": 1202,
+                "innerOrderId": "TQ979497494679",
+                "productName": "触发触发的  降水天气保障",
+                "triggerState": 1,
+                "payoutState": 1,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-02",
+                        "eDate": "2017-08-03"
+                    }
+                ]
+            },
+            {
+                "id": 1202,
+                "innerOrderId": "TQ979497494679",
+                "productName": "降水天气保障",
+                "triggerState": 1,
+                "payoutState": 0,
+                "contracts": [
+                    {
+                        "city": "广州",
+                        "sDate": "2017-08-02",
+                        "eDate": "2017-08-06"
+                    }
+                ]
+            },
+            {
+                "id": 1202,
+                "innerOrderId": "TQ979497494679",
+                "productName": "降水天气保障",
+                "triggerState": 1,
+                "payoutState": 1,
+                "contracts": [
+                    {
+                        "city": "北京",
+                        "sDate": "2017-08-02",
+                        "eDate": "2017-08-03"
+                    },
+                    {
+                        "city": "广州",
+                        "sDate": "2017-08-02",
+                        "eDate": "2017-08-06"
+                    },
+                    {
+                        "city": "深圳",
+                        "sDate": "2017-08-02",
+                        "eDate": "2017-08-13"
+                    }
+                ]
+            },
+            {
+                "id": 1202,
+                "innerOrderId": "TQ979497494679",
+                "productName": "降水天气保障",
+                "triggerState": 1,
+                "payoutState": 1,
+                "contracts": [
+                    {
+                        "city": "深圳",
+                        "sDate": "2017-08-02",
+                        "eDate": "2017-08-13"
+                    }
+                ]
+            }
+        ]
+    }
+}
